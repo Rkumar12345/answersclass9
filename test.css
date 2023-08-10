@@ -1,0 +1,44 @@
+*{
+    font-size:18px;
+    font-family:cursive;
+    color:black;
+}
+body{
+    background-image:url("hd.jpg");
+    background-size: cover;
+}
+#name{
+    display: inline-block;
+    height:30px;
+    width:180px;
+    background-color:transparent;
+    border:border-box;
+    font-size:18px;
+    border-color:white;
+}
+#class{
+    display: inline-block;
+    height:30px;
+    width:180px;
+    background-color:transparent;
+    border:border-box;
+    font-size:18px;
+    border-color:white;
+}
+#sec{
+    display: inline-block;
+    height:30px;
+    width:180px;
+    background-color:transparent;
+    border:border-box;
+    font-size:18px;
+    border-color:white;
+}
+#nav{
+    height:500px;
+    width:500px;
+    position:absolute;
+    top:50px;
+    left:200px;
+    margin:20px;
+}
